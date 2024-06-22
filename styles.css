@@ -28,7 +28,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-   /* background-attachment:initial ; */
+    background-attachment:initial;
     height: 100vh;
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -81,7 +81,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 600px;
+    margin-bottom: 300px;
 
 }
 
@@ -90,4 +90,28 @@ body {
     color: white;
     text-align: center;
     font-size: 14px;
+}
+
+#divpai-icons1{
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 400px;
+}
+
+.icons-comeco{
+    width: 25%;
+    height: 50%;
+    margin: 0 20px;
+    height: 400 px;
+    font-weight: 300;
+    
+}
+
+#divpai-icons2{
+    border-top: 1px solid rgb(202, 200, 200);
+    border-bottom: 1px solid rgb(202, 200, 200);
+    margin-left: 200px;
+    margin-right: 200px;
 }
