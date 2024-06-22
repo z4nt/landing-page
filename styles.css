@@ -27,9 +27,11 @@ body {
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    
+    background-size: cover;
+   /* background-attachment:initial ; */
     height: 100vh;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 
 }
 
