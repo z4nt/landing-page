@@ -127,7 +127,7 @@ body {
 
 #divpai-txt2{
     display: flex;
-    margin-top: 100px;
+    margin-top: 50px;
     justify-content: center;
     align-items: center;
     margin-bottom: 100px;
@@ -139,7 +139,6 @@ body {
     margin-top: 100px;
     justify-content: center;
     align-items: center;
-    margin-bottom: 100px;
     width: 50%;
 }
 
