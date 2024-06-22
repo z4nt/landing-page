@@ -115,3 +115,56 @@ body {
     margin-left: 200px;
     margin-right: 200px;
 }
+
+#txt-sell3 {
+    color: black;
+    text-align: center;
+    padding: 0%;
+    margin-top: 1%;
+    font-size: 22px;
+    
+}
+
+#divpai-txt2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+#txt-sell4 {
+    color: black;
+    text-align: center;
+    padding: 0%;
+    margin-top: 1%;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    
+}
+
+.green-button {
+    background-color: #18682b; /* Cor de fundo verde */
+    color: white; /* Cor do texto branco */
+    border: none; /* Remove bordas */
+    padding: 10px 20px; /* Padding para aumentar o espaço dentro do botão */
+    font-size: 16px; /* Tamanho da fonte */
+    font-weight: bold; /* Negrito */
+    text-align: center; /* Alinha o texto ao centro */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Mostra o cursor de mão ao passar sobre o botão */
+    transition: background-color 0.3s; /* Suaviza a transição de cor ao passar o mouse */
+    width: 160px;
+    height: 50px;
+}
+
+#icon-2{
+    margin-bottom: 10px;
+}
+
+#icon-3{
+    margin-bottom: 10px;
+}
