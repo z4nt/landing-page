@@ -196,3 +196,29 @@ body {
     display: flex;
     justify-content: flex-end;
 }
+
+.link-rodape{
+    text-decoration: none;
+    color: #18682b;
+}
+
+.distanciamento{
+    width: 160px;
+    text-align: start;
+  
+}
+
+.botao-tp{
+    background-color: transparent;
+    font-weight: bold;
+    border-color: transparent;
+    transition: background-color 0.3s, color 0.3s;
+    cursor: pointer;
+    font-size: 20px;
+
+}
+
+#texto-FAQ{
+    font-weight: 400;
+    color: green;
+}
