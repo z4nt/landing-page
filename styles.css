@@ -154,17 +154,16 @@ body {
     
 }
 
-.green-button {
-    background-color: #18682b; /* Cor de fundo verde */
-    color: white; /* Cor do texto branco */
-    border: transparent; /* Remove bordas */
-    padding: 10px 20px; /* Padding para aumentar o espaço dentro do botão */
-    font-size: 16px; /* Tamanho da fonte */
-    font-weight: bold; /* Negrito */
-    text-align: center; /* Alinha o texto ao centro */
-    border-radius: 5px; /* Bordas arredondadas */
-    cursor: pointer; /* Mostra o cursor de mão ao passar sobre o botão */
-    transition: background-color 0.3s; /* Suaviza a transição de cor ao passar o mouse */
+.but-verde {
+    background-color: #18682b; 
+    color: white; 
+    border: transparent; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px; 
+    cursor: pointer; 
     width: 160px;
     height: 50px;
 }
